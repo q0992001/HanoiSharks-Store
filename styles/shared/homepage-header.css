@@ -12,14 +12,14 @@
   top: 0;
   left: 0;
   right: 0;
-  height: 120px;
+  height: 60px;
 }
 
 .homepage-header-left-section {
   width: 180px;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 800px) {
   .homepage-header-left-section {
     width: unset;
   }
@@ -39,7 +39,7 @@
 }
 
 .homepage-logo {
-  width: 120px;
+  width: 60px;
   margin-top: 5px;
 }
 
